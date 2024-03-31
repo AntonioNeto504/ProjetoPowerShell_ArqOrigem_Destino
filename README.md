@@ -1,3 +1,3 @@
-SCRIP DE AUTOMAÇÃO EM POWER SHELL
+# SCRIP DE AUTOMAÇÃO EM POWER SHELL
 -------------------------------------------------------------------
-Neste script, definimos um caminho para a pasta de origem e um conjunto de pares chave-valor onde as chaves são as extensões dos arquivos e os valores são os caminhos para as pastas de destino correspondentes. Em seguida, o script percorre os arquivos na pasta de origem, verifica suas extensões e os move para as pastas de destino apropriadas, conforme definido no conjunto de destinos. Se uma extensão não tiver um destino correspondente, o script exibirá uma mensagem indicando que o arquivo não foi movido.
+## Neste script, definimos um caminho para a pasta de origem e um conjunto de pares chave-valor onde as chaves são as extensões dos arquivos e os valores são os caminhos para as pastas de destino correspondentes. Em seguida, o script percorre os arquivos na pasta de origem, verifica suas extensões e os move para as pastas de destino apropriadas, conforme definido no conjunto de destinos. Se uma extensão não tiver um destino correspondente, o script exibirá uma mensagem indicando que o arquivo não foi movido.
